@@ -1,0 +1,67 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "ใช้คลื่นพลังบวก",
+      "author": "เว็กซ์ คิง",
+      "price": 245,
+      "cover": "http://localhost:3001/uploads/1770953246838-32560122.jpg"
+    },
+    {
+      "id": 2,
+      "title": "ตามดวงจันทร์",
+      "author": "พลอย โจนส์",
+      "price": 285,
+      "cover": "http://localhost:3001/uploads/1770953294690-391794196.jpg"
+    },
+    {
+      "id": 3,
+      "title": "รีเซตชีวิตมาเป็นพนักงานใหม่สุดแข็งแกร่ง",
+      "author": "oh jung",
+      "price": 445,
+      "cover": "http://localhost:3001/uploads/1770958663896-103196619.jpg"
+    },
+    {
+      "id": 4,
+      "title": "จิตวิทยาสายดาร์ก",
+      "author": "Dr.HIRO",
+      "price": 250,
+      "cover": "http://localhost:3001/uploads/1770953358577-129052954.jpg"
+    },
+    {
+      "id": 5,
+      "title": "อ่านชะตาวันสิ้นโลก 05",
+      "author": "singNsong",
+      "price": 550,
+      "cover": "http://localhost:3001/uploads/1770953395425-859043969.jpg"
+    },
+    {
+      "id": 6,
+      "title": "อโศกสาง",
+      "author": "กาหล มหรทึก",
+      "price": 395,
+      "cover": "http://localhost:3001/uploads/1770953425322-718007720.jpg"
+    },
+    {
+      "id": 7,
+      "title": "777 โรงแรมรวมนักฆ่า",
+      "author": "ชุติภัก",
+      "price": 320,
+      "cover": "http://localhost:3001/uploads/1770953462780-712915403.jpg"
+    },
+    {
+      "id": 8,
+      "title": "gg",
+      "author": "ez",
+      "price": 10,
+      "cover": "http://localhost:3001/uploads/1770958588374-315617957.gif"
+    },
+    {
+      "id": 9,
+      "title": "ppp",
+      "author": "ro",
+      "price": 20,
+      "cover": "http://localhost:3001/uploads/1770967254003-574588519.jpg"
+    }
+  ]
+}
